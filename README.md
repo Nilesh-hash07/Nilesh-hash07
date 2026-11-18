@@ -57,10 +57,10 @@ current_vectors:
 tools_of_choice: [C++, Python, Rust/Go, Linux Kernel, Wireshark, Burp Suite, OpenSSL]
 ```
 
-- 🔐 **Research Specialization:** Architecting defense-in-depth security architectures spanning post-quantum cryptographic primitives, LLM agent tool-call boundary validation, and zero-trust protocol isolation.
-- 🔬 **Active Investigations:** Testing prompt-injection vectors into tool execution loops (MCP), side-channel telemetry, and hybrid lattice-based post-quantum key encapsulation mechanisms.
-- 🎯 **Target Goals:** Hardening internet infrastructure for the post-quantum era and safeguarding autonomous AI agents against supply chain and injection exploits.
-- 🤝 **Collaboration:** Open to threat research, security tooling, cryptographic peer reviews, and open-source AppSec innovations.
+- **Research Specialization:** Architecting defense-in-depth security architectures spanning post-quantum cryptographic primitives, LLM agent tool-call boundary validation, and zero-trust protocol isolation.
+- **Active Investigations:** Testing prompt-injection vectors into tool execution loops (MCP), side-channel telemetry, and hybrid lattice-based post-quantum key encapsulation mechanisms.
+- **Target Goals:** Hardening internet infrastructure for the post-quantum era and safeguarding autonomous AI agents against supply chain and injection exploits.
+- **Collaboration:** Open to threat research, security tooling, cryptographic peer reviews, and open-source AppSec innovations.
 
 ---
 
@@ -70,7 +70,7 @@ tools_of_choice: [C++, Python, Rust/Go, Linux Kernel, Wireshark, Burp Suite, Ope
   <tr>
     <td width="33%" valign="top">
       <div align="center">
-        <h3>🛡️ mcp-inject</h3>
+        <h3>mcp-inject</h3>
         <p><i>Model Context Protocol Security & Tool Injection Framework</i></p>
       </div>
       <p>Research suite and vulnerability testbed targeting LLM tool-calling boundaries. Uncovers prompt injection vectors, sandbox escapes, and tool-poisoning attacks within the Model Context Protocol ecosystem, offering defensive sanitization primitives.</p>
@@ -85,7 +85,7 @@ tools_of_choice: [C++, Python, Rust/Go, Linux Kernel, Wireshark, Burp Suite, Ope
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <h3>🔒 HexaPriv</h3>
+        <h3>HexaPriv</h3>
         <p><i>Next-Gen Privacy-Preserving Architecture</i></p>
       </div>
       <p>High-security privacy framework designed for confidential computing, data anonymization, and untraceable access management. Enforces strict cryptographic isolation to guarantee data sovereignty and guard against exfiltration vectors.</p>
@@ -100,7 +100,7 @@ tools_of_choice: [C++, Python, Rust/Go, Linux Kernel, Wireshark, Burp Suite, Ope
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <h3>⚡ Hybrid PQC TLS</h3>
+        <h3>Hybrid PQC TLS</h3>
         <p><i>Quantum-Resistant Transport Layer Security</i></p>
       </div>
       <p>Implementation of hybrid post-quantum key exchange mechanisms within TLS 1.3 pipelines. Fuses classical elliptic-curve Diffie-Hellman (ECDHE/X25519) with lattice-based KEMs (ML-KEM / Kyber) to protect against "Harvest Now, Decrypt Later" quantum threats.</p>
@@ -118,11 +118,11 @@ tools_of_choice: [C++, Python, Rust/Go, Linux Kernel, Wireshark, Burp Suite, Ope
 
 ---
 
-### 🧰 Cybersecurity & Engineering Arsenal
+### Cybersecurity & Engineering Arsenal
 
 <div align="center">
 
-#### 🛡️ Offensive & Defensive Security
+#### Offensive & Defensive Security
 <p>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -132,7 +132,7 @@ tools_of_choice: [C++, Python, Rust/Go, Linux Kernel, Wireshark, Burp Suite, Ope
   <img src="https://img.shields.io/badge/Ghidra_Reverse_Eng-FF0055?style=for-the-badge&logo=gnubash&logoColor=white" alt="Ghidra" />
 </p>
 
-#### 🔐 Cryptography & Privacy Protocols
+#### Cryptography & Privacy Protocols
 <p>
   <img src="https://img.shields.io/badge/Post--Quantum_PQC-ML--KEM%20%7C%20Kyber-7928CA?style=for-the-badge&logo=quantum&logoColor=white" alt="PQC" />
   <img src="https://img.shields.io/badge/TLS_1.3_Security-00F0FF?style=for-the-badge&logo=letsencrypt&logoColor=black" alt="TLS 1.3" />
@@ -141,7 +141,7 @@ tools_of_choice: [C++, Python, Rust/Go, Linux Kernel, Wireshark, Burp Suite, Ope
   <img src="https://img.shields.io/badge/Differential_Privacy-HexaPriv-FF8C00?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Privacy" />
 </p>
 
-#### 🤖 AI & MCP Vulnerability Research
+#### AI & MCP Vulnerability Research
 <p>
   <img src="https://img.shields.io/badge/Model_Context_Protocol-MCP_Sec-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
   <img src="https://img.shields.io/badge/Prompt_Injection_Defense-mcp--inject-E01E5A?style=for-the-badge&logo=target&logoColor=white" alt="Injection Defense" />
@@ -149,7 +149,7 @@ tools_of_choice: [C++, Python, Rust/Go, Linux Kernel, Wireshark, Burp Suite, Ope
   <img src="https://img.shields.io/badge/LLM_Red_Teaming-1A1A1A?style=for-the-badge&logo=matrix&logoColor=white" alt="Red Teaming" />
 </p>
 
-#### 💻 Systems, Languages & Infrastructure
+#### Systems, Languages & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -163,7 +163,7 @@ tools_of_choice: [C++, Python, Rust/Go, Linux Kernel, Wireshark, Burp Suite, Ope
 
 ---
 
-### 📊 Threat Ops & GitHub Activity
+### Threat Ops & GitHub Activity
 
 <div align="center">
   <table border="0">
@@ -181,22 +181,6 @@ tools_of_choice: [C++, Python, Rust/Go, Linux Kernel, Wireshark, Burp Suite, Ope
       </td>
     </tr>
   </table>
-</div>
-
----
-
-### 🏆 Security & Commits Trophy Showcase
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nilesh-hash07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-### 💡 Security Terminal Quote
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&bgColor=0d1117" alt="Hacker Quote / Joke" />
 </div>
 
 ---
